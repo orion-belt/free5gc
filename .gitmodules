@@ -31,3 +31,6 @@
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/free5gc/webconsole.git
+[submodule "NFs/amf"]
+	path = NFs/amf
+	url = https://github.com/orion-belt/amf.git
